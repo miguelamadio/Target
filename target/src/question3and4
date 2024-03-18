@@ -1,0 +1,18 @@
+3)
+    a) 9, sequencia de numeros impares
+    b) 128, sequencia de potencias
+    c) 49, sequencia de numeros ao quadrado
+    d) 100, sequencia de quadrado de numeros pares
+    e) 13, sequencia de fibonacci
+    f) provavelmente 20, no inicio a sequencia é não linear mas
+        ultimos termos aumentam de 1 em 1
+
+4) Ligaria 2 lampadas.
+    Se a sala que fui está desligada
+        já sei uma das respostas,
+        os interruptores restantes ficam 1 ligado e outro desligado. A próxima ida revelará
+        qual interruptor é qual.
+    Caso esteja ligada,
+        retorno à sala dos interruptores e desligo 1 daqueles que estavam ligados
+        ao retornar à mesma sala, saberei qual interruptor é qual dentre os que estavam
+        ligados, e por exclusão o interruptor restante é o da 3 sala
